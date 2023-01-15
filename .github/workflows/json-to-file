@@ -6,4 +6,4 @@
     # The json you want to store
     json: 
     # The filename you want to store the json in
-    filename: 
+    filename: interfaces.ispaces.json
